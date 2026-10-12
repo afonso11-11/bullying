@@ -1,0 +1,173 @@
+estudo,grupo,indicador,categoria,valor,unidade,n,pagina,observacao
+"Silva, Vilela e Oliveira (2024)",Pública,envolvimento_pense2015,Vítima,4.7,%,3618,11,"PeNSE 2015, 9º ano; base: 77488 estudantes"
+"Silva, Vilela e Oliveira (2024)",Pública,envolvimento_pense2015,Agressor,16.3,%,12617,11,"PeNSE 2015, 9º ano; base: 77488 estudantes"
+"Silva, Vilela e Oliveira (2024)",Pública,envolvimento_pense2015,Vítima-agressor,2.2,%,1669,11,"PeNSE 2015, 9º ano; base: 77488 estudantes"
+"Silva, Vilela e Oliveira (2024)",Privada,envolvimento_pense2015,Vítima,4.2,%,850,11,"PeNSE 2015, 9º ano; base: 20358 estudantes"
+"Silva, Vilela e Oliveira (2024)",Privada,envolvimento_pense2015,Agressor,17.6,%,3585,11,"PeNSE 2015, 9º ano; base: 20358 estudantes"
+"Silva, Vilela e Oliveira (2024)",Privada,envolvimento_pense2015,Vítima-agressor,1.9,%,393,11,"PeNSE 2015, 9º ano; base: 20358 estudantes"
+"Silva, Vilela e Oliveira (2024)",Brasil,vitimizacao_pense_serie,2009,5.4,%,,6,
+"Silva, Vilela e Oliveira (2024)",Brasil,vitimizacao_pense_serie,2012,7.2,%,,6,
+"Silva, Vilela e Oliveira (2024)",Brasil,vitimizacao_pense_serie,2015,7.4,%,,6,
+"Silva, Vilela e Oliveira (2024)",Brasil,vitimizacao_pense_serie,2019,23,%,,6,2019 usa outra escala de resposta (nota 7 do artigo)
+"Silva, Vilela e Oliveira (2024)","Minas Gerais, rede estadual (CRISP/UFMG, 2012)",estudos_vitimas,vítimas,16,%,,6,citado por Silva; Vilela; Oliveira (2024)
+"Silva, Vilela e Oliveira (2024)","Minas Gerais, rede estadual (CRISP/UFMG, 2012)",estudos_agressores,agressores,9.6,%,,6,citado
+"Silva, Vilela e Oliveira (2024)","Município de São Paulo, 2017",estudos_vitimas,vítimas,28.7,%,,6,"Peres et al. (2018), citado"
+"Silva, Vilela e Oliveira (2024)","Município de São Paulo, 2017",estudos_agressores,agressores,15.3,%,,6,citado
+"Silva, Vilela e Oliveira (2024)","Campina Grande (PB), escolas municipais",estudos_vitimas,vítimas,29.5,%,,6,"Marcolino et al. (2018), citado"
+"Silva, Vilela e Oliveira (2024)","Campina Grande (PB), escolas municipais",estudos_agressores,agressores,8.4,%,,6,citado
+"Silva, Vilela e Oliveira (2024)","Brasil, PeNSE 2019",estudos_vitimas,vítimas,23,%,,6,"IBGE, citado; escala de resposta diferente"
+"Silva, Vilela e Oliveira (2024)",Meninas,vitimizacao_pense2019_sexo,vítimas,26.5,%,,8,"PeNSE 2019, citada (IBGE, 2021)"
+"Silva, Vilela e Oliveira (2024)",Meninos,vitimizacao_pense2019_sexo,vítimas,19.5,%,,8,"PeNSE 2019, citada (IBGE, 2021)"
+"Silva, Vilela e Oliveira (2024)",Pública,sexo_masculino_aumento_prob,Praticar bullying,69,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Pública,sexo_masculino_aumento_prob,Sofrer bullying,28,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Pública,sexo_masculino_aumento_prob,Ser vítima-agressor,89,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Privada,sexo_masculino_aumento_prob,Praticar bullying,115,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Privada,sexo_masculino_aumento_prob,Sofrer bullying,25,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Privada,sexo_masculino_aumento_prob,Ser vítima-agressor,162,%,,11,"aumento da probabilidade do menino em relação à menina, dois alunos iguais nas demais variáveis"
+"Silva, Vilela e Oliveira (2024)",Pública,nse_efeito_chance,Sofrer bullying,-62,%,,13,aluno no ponto mais alto do índice de consumo contra o mais baixo
+"Silva, Vilela e Oliveira (2024)",Pública,nse_efeito_chance,Praticar bullying,95,%,,13,idem
+"Silva, Vilela e Oliveira (2024)",Privada,nse_efeito_chance,Sofrer bullying,-65,%,,13,aluno no ponto mais alto do índice de consumo contra o mais baixo
+"Silva, Vilela e Oliveira (2024)",Privada,nse_efeito_chance,Praticar bullying,67,%,,13,idem
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Sexo masculino|Vítima,1.275,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Sexo masculino|Agressor,1.69,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Sexo masculino|Vítima,1.248,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Sexo masculino|Agressor,2.146,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Índice de consumo|Vítima,0.624,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Índice de consumo|Agressor,1.949,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Índice de consumo|Vítima,0.652,razão de chance,,12,"significância: ** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Índice de consumo|Agressor,1.664,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Solidão|Vítima,2.699,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Solidão|Agressor,1.007,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Solidão|Vítima,3.694,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Solidão|Agressor,0.916,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Insônia|Vítima,1.836,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Insônia|Agressor,1.125,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Insônia|Vítima,1.364,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Insônia|Agressor,1.053,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Agressão física familiar|Vítima,1.8,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Agressão física familiar|Agressor,1.741,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Agressão física familiar|Vítima,1.884,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Agressão física familiar|Agressor,1.858,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Ausência de amigos próximos|Vítima,1.672,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Ausência de amigos próximos|Agressor,0.93,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Ausência de amigos próximos|Vítima,1.837,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Ausência de amigos próximos|Agressor,0.765,razão de chance,,12,"significância: ** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Uso de drogas|Vítima,0.696,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Uso de drogas|Agressor,2.2,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Uso de drogas|Vítima,0.632,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Uso de drogas|Agressor,2.243,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Ausência de supervisão familiar|Vítima,0.918,razão de chance,,12,"significância: ** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Ausência de supervisão familiar|Agressor,1.663,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Ausência de supervisão familiar|Vítima,1.037,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Ausência de supervisão familiar|Agressor,1.721,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Faltar às aulas sem permissão|Vítima,1.057,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Pública,razao_chance_tabela1,Faltar às aulas sem permissão|Agressor,1.382,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Faltar às aulas sem permissão|Vítima,1.045,razão de chance,,12,"significância: não significativa (*** p<0,01; ** p<0,05)"
+"Silva, Vilela e Oliveira (2024)",Privada,razao_chance_tabela1,Faltar às aulas sem permissão|Agressor,1.336,razão de chance,,12,"significância: *** (*** p<0,01; ** p<0,05)"
+Moreno et al. (2012),Recife (PE),amostra,estudantes entrevistados,1507,n,1507,809-810,"10 a 14 anos, 2007"
+Moreno et al. (2012),Recife (PE),amostra,vítimas de violência verbal,558,n,558,810,37% da amostra
+Moreno et al. (2012),Pública,vitimas_verbais_rede,vítimas verbais,37.6,%,414,810,"414 vítimas (74,2%) na rede pública"
+Moreno et al. (2012),Privada,vitimas_verbais_rede,vítimas verbais,35.0,%,144,810,"o artigo informa 35%; 144 vítimas (25,8%) na rede privada"
+Moreno et al. (2012),Floriano (PI) | Pública,cidades_vitimas,vítimas,23,%,,810,citado por Moreno et al. (2012)
+Moreno et al. (2012),Floriano (PI) | Privada,cidades_vitimas,vítimas,20,%,,810,citado por Moreno et al. (2012)
+Moreno et al. (2012),Pelotas (RS) | Pública,cidades_vitimas,vítimas,17.6,%,,810,"estudantes de escolas públicas, 5 a 18 anos; citado"
+Moreno et al. (2012),Canoas (RS) | Privada,cidades_vitimas,vítimas,13.99,%,,810,escolas particulares de ensino fundamental; citado
+Moreno et al. (2012),Pública,escolaridade_chefe_familia,Analfabeto ou até 3ª série,46.0,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Pública,escolaridade_chefe_familia,4ª série,13.1,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Pública,escolaridade_chefe_familia,Fundamental completo,14.2,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Pública,escolaridade_chefe_familia,Médio completo,22.0,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Pública,escolaridade_chefe_familia,Superior completo,4.7,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Privada,escolaridade_chefe_familia,Analfabeto ou até 3ª série,1.6,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Privada,escolaridade_chefe_familia,4ª série,6.3,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Privada,escolaridade_chefe_familia,Fundamental completo,3.9,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Privada,escolaridade_chefe_familia,Médio completo,37.8,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Privada,escolaridade_chefe_familia,Superior completo,50.4,%,,810,entre as vítimas de violência verbal
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Gostam de se olhar no espelho,83,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Avaliam positivamente a aparência,68.4,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Não ingerem bebida alcoólica,94.6,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Conversam com alguém sobre problemas,51.1,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Nunca repetiram de ano,71.8,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Consideram-se tímidos,52.9,%,558,811,
+Moreno et al. (2012),Vítimas de violência verbal,perfil_vitimas,Têm facilidade de fazer amigos,85.5,%,558,811,
+Moreno et al. (2012),Pública,sexo_feminino_vitimas,feminino,59.2,%,,810,
+Moreno et al. (2012),Privada,sexo_feminino_vitimas,feminino,50.0,%,,810,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Chamar nomes,1.62,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Chamar nomes,1.41,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Deixar de fora,1.32,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Deixar de fora,1.21,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Bater,1.18,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Bater,1.2,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Boatos,1.42,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Boatos,1.13,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Cor da pele,1.11,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Cor da pele,1.11,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Religião,1.09,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Religião,1.09,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),media_bullying,Piadas sexuais,1.34,média (1 a 5),6131,Quadro 1,escala: 1 = nunca ... 5 = muitas vezes por semana
+Matos e Gonçalves (2009),Exercidos (provocador),media_bullying,Piadas sexuais,1.26,média (1 a 5),6131,Quadro 1,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Chamar nomes,0.17,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Chamar nomes,0.08,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Deixar de fora,0.15,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Deixar de fora,0.06,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Bater,0.13,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Bater,0.08,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Boatos,0.17,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Boatos,0.05,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Cor da pele,0.09,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Cor da pele,0.04,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Religião,0.08,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Religião,0.04,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Percepção de insegurança na escola|Piadas sexuais,0.14,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Percepção de insegurança na escola|Piadas sexuais,0.06,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Chamar nomes,0.05,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Chamar nomes,0.19,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Deixar de fora,0.06,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Deixar de fora,0.19,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Bater,0.11,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Bater,0.25,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Boatos,0.1,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Boatos,0.23,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Cor da pele,0.14,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Cor da pele,0.22,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Religião,0.13,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Religião,0.22,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Porte de armas|Piadas sexuais,0.11,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Porte de armas|Piadas sexuais,0.23,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Chamar nomes,-0.11,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Chamar nomes,-0.07,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Deixar de fora,-0.13,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Deixar de fora,-0.03,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Bater,-0.04,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Bater,-0.05,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Boatos,-0.12,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Boatos,-0.03,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Cor da pele,-0.04,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Cor da pele,-0.05,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Religião,-0.03,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Religião,-0.03,r de Pearson,6131,Quadro 2,
+Matos e Gonçalves (2009),Sofridos (provocado),correlacao,Satisfação com a vida|Piadas sexuais,-0.08,r de Pearson,6131,Quadro 2,"no artigo o primeiro bloco do Quadro 2 aparece rotulado 'Provocador'; pelos itens (chamarem nomes, deixado fora, baterem) refere-se a comportamentos sofridos"
+Matos e Gonçalves (2009),Exercidos (provocador),correlacao,Satisfação com a vida|Piadas sexuais,-0.05,r de Pearson,6131,Quadro 2,
+Grossi e Santos (2009),Porto Alegre (RS),amostra,estudantes (4 escolas públicas estaduais),192,n,192,250-254,4ª e 7ª séries e 1º ano do ensino médio; 2007
+Grossi e Santos (2009),Porto Alegre (RS),convivencia_escola,Ótima ou boa,56.3,%,108,250-254,"56,3% informado no artigo"
+Grossi e Santos (2009),Porto Alegre (RS),convivencia_escola,Regular,28.6,%,55,250-254,"percentual calculado sobre 192 respondentes; o artigo informa 39,6% para regular, ruim e péssima somados"
+Grossi e Santos (2009),Porto Alegre (RS),convivencia_escola,Ruim,6.2,%,12,250-254,"percentual calculado sobre 192 respondentes; o artigo informa 39,6% para regular, ruim e péssima somados"
+Grossi e Santos (2009),Porto Alegre (RS),convivencia_escola,Péssima,4.7,%,9,250-254,"percentual calculado sobre 192 respondentes; o artigo informa 39,6% para regular, ruim e péssima somados"
+Grossi e Santos (2009),Porto Alegre (RS),percebem_preconceito,percebem,76,%,192,250-254,
+Grossi e Santos (2009),Vítimas,sentimentos_vitimas,Raiva,56.6,%,,250-254,
+Grossi e Santos (2009),Vítimas,sentimentos_vitimas,Medo ou susto,37.9,%,,250-254,
+Grossi e Santos (2009),Vítimas,sentimentos_vitimas,Preocupação com o que os outros pensam,24,%,,250-254,
+Grossi e Santos (2009),Vítimas,sentimentos_vitimas,Não querer mais frequentar a escola,12,%,,250-254,o artigo usa 'cerca de' para este valor
+Grossi e Santos (2009),Colegas que presenciam,sentimentos_testemunhas,Mal-estar,29.6,%,,250-254,
+Grossi e Santos (2009),Colegas que presenciam,sentimentos_testemunhas,Pena,27.2,%,,250-254,
+Grossi e Santos (2009),Colegas que presenciam,sentimentos_testemunhas,Medo de acontecer com eles,8.6,%,,250-254,
+Grossi e Santos (2009),Colegas que presenciam,sentimentos_testemunhas,"Bem-estar, razão ao agressor ou indiferença",9.9,%,,250-254,
+Grossi e Santos (2009),Porto Alegre (RS),autor_bullying,Colegas da escola,70.5,%,,250-254,respostas não excludentes
+Grossi e Santos (2009),Porto Alegre (RS),autor_bullying,Familiares,18.2,%,,250-254,respostas não excludentes
+Grossi e Santos (2009),Porto Alegre (RS),autor_bullying,Funcionários,15.2,%,,250-254,respostas não excludentes
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Não conversaram com ninguém,40,%,,250-254,mais de 40%
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Professores não sabiam,50,%,,250-254,mais de 50% dos casos
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Professor sabia e nada fez,8,%,,250-254,cerca de 8%
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Professor acentuou a situação,14,%,,250-254,14%
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,"Reagiram com socos, pontapés ou brigas",48,%,,250-254,cerca de 48%
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Casos ocorridos na sala de aula,52.7,%,,250-254,"52,7%"
+Grossi e Santos (2009),Porto Alegre (RS),denuncia_escola,Não se envolveram em bullying,30,%,,250-254,apenas 30%
